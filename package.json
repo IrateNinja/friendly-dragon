@@ -12,9 +12,9 @@
 	"author": "MarketClouds",
 	"dependencies":
 	{
-		"friendly-dragon-core": "0.0.1",
-		"friendly-dragon-router": "0.0.1",
-		"friendly-dragon-backends": "0.0.1",
-		"friendly-dragon-middleware": "0.0.1"
+		"friendly-dragon-core": "https://github.com/gdcbyers/friendly-dragon-core/tarball/master",
+		"friendly-dragon-router": "https://github.com/gdcbyers/friendly-dragon-router/tarball/master",
+		"friendly-dragon-backends": "https://github.com/gdcbyers/friendly-dragon-backends/tarball/master",
+		"friendly-dragon-middleware": "https://github.com/gdcbyers/friendly-dragon-middleware/tarball/master"
 	}
 }
