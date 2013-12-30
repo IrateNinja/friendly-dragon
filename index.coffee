@@ -35,7 +35,7 @@
 
 _ = require 'lodash'
 debug = require 'debug'
-logger = debug 'FriendlyDragon'
+logger = debug 'FDServer'
 
 nconf = require 'nconf'
 express = require 'express'
