@@ -12,6 +12,9 @@
 	"author": "MarketClouds",
 	"dependencies":
 	{
+		"debug": "~0.7.4",
+		"lodash": "~2.4.1",
+		"coffee-script": "~1.6.3",
 		"friendly-dragon-router": "https://github.com/gdcbyers/friendly-dragon-router/tarball/master",
 		"friendly-dragon-backends": "https://github.com/gdcbyers/friendly-dragon-backends/tarball/master",
 		"friendly-dragon-middleware": "https://github.com/gdcbyers/friendly-dragon-middleware/tarball/master"
